@@ -1,0 +1,2 @@
+user = input(" ")
+userInput = user
